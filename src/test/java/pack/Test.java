@@ -9,7 +9,7 @@ public class Test {
 		System.out.println("Testing Git Branch");
 		System.out.println("Testing");
 		System.out.println("Testing git branch in github");
-		System.out.println("tareq_test");
+		System.out.println("tareq_test_github pull");
 	}
 
 }
