@@ -23,6 +23,8 @@ public class ScrollPage {
 		
 		((JavascriptExecutor)driver).executeScript("scroll(0,400)");
 		
+		((JavascriptExecutor)driver).executeScript("scroll(0,500)");
+		
 	}
 
 }
